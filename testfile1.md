@@ -18,7 +18,20 @@ normal paragraph. more stuff here.
 * list23
 * list44
 
+You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
+> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+
+
+
+ [Mermaid](https://mermaidjs.github.io/)
+ 
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -41,6 +54,6 @@ C --> D
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODA5MTc2NzksLTc2ODkwMzkzMCwxOD
+eyJoaXN0b3J5IjpbLTEzMTI2NjE5NTcsLTc2ODkwMzkzMCwxOD
 Y2NTE4MTldfQ==
 -->
