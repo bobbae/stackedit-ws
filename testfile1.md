@@ -10,6 +10,13 @@
 * list 2
 * list 3
 
+|                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
+
 normal paragraph. more stuff here.
 
 ## header 2
@@ -54,6 +61,6 @@ C --> D
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI2NjE5NTcsLTc2ODkwMzkzMCwxOD
-Y2NTE4MTldfQ==
+eyJoaXN0b3J5IjpbNTIwMDY0NzM5LC0xMzEyNjYxOTU3LC03Nj
+g5MDM5MzAsMTg2NjUxODE5XX0=
 -->
