@@ -1,0 +1,2 @@
+# stackedit-ws
+stackedit workspace
