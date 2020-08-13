@@ -53,14 +53,18 @@ Alice->John: Yes... John, how are you?
 
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
+A[aaa] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
+D --> E(aaa)
+E --> A
+B --> D
+D --> C
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMDY0NzM5LC0xMzEyNjYxOTU3LC03Nj
-g5MDM5MzAsMTg2NjUxODE5XX0=
+eyJoaXN0b3J5IjpbLTE2NDY3ODI4MDUsNTIwMDY0NzM5LC0xMz
+EyNjYxOTU3LC03Njg5MDM5MzAsMTg2NjUxODE5XX0=
 -->
